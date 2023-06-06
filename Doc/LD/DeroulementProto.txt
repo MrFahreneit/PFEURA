@@ -1,0 +1,15 @@
+DEROULEMENT PROTO
+
+- //(CREATION PERSO (Commence en 2D))
+- Intro à la pedestrian (décore noir into vista)
+- 2D un peu platforme 
+- Sort en 3D, vista (montre objectif) + cinématique
+- Premier déplacement (ça dure 2 sec)
+- Premier fight (cassable wall)
+- au même endroit, enigme (rapide) pousse un bloc pour passer en 2D. Mur arrondi parce qu'on se la pete ( hint boss de zone)
+- sort en 3D on récupère un truc avec de l'exp // perks // un truc ( un peu caché)
+- passe en 1D, on change de scène
+- 2 eme fight ( plus de mob, plus de varieté ennemis)
+- re tease du boss, on arrive énorme vista final 
+-affrontement boss première phase, le boss fuit, cinématique on le poursuit, passage en phase 1D un peu mini jeu rythm/esquive truc
+-Ressort deuxième phase du boss, final ultra epique, zegongue 
