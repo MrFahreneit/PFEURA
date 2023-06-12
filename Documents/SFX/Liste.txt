@@ -1,0 +1,12 @@
+Player:
+
+Walk
+Run
+Dash
+Attack
+Hurt
+2D In
+2D Out
+XP
+LevelUp
+Super Ready
